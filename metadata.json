@@ -1,0 +1,7 @@
+{
+  "name": "Fuel Log Pro",
+  "description": "An application for company drivers to log their fuel consumption, including mileage, cost, and a receipt photo. Admins can view all logs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
